@@ -7,8 +7,6 @@
 
 **Note**: The `master` branch may be in an *unstable or even broken state* during development. Please use [releases][github-release] instead of the `master` branch in order to get stable binaries.
 
-This is a test message
-
 *the etcd v2 [documentation](Documentation/v2/README.md) has moved*
 
 ![etcd Logo](logos/etcd-horizontal-color.png)
